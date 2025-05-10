@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Your local change
-=======
-The change from origin/main
->>>>>>> origin/main
 
+The change from origin/main
