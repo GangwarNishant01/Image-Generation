@@ -1,4 +1,6 @@
-Hi this is a file to collabrate.
-
-
+<<<<<<< HEAD
+Your local change
+=======
+The change from origin/main
+>>>>>>> origin/main
 
